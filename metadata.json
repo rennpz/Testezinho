@@ -1,0 +1,6 @@
+{
+  "name": "Cupido Pixel",
+  "description": "Um site interativo de Dia dos Namorados. Cada clique espalha corações em pixel art na tela com música retrô e cartas personalizáveis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
